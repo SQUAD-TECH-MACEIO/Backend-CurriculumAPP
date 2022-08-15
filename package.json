@@ -1,0 +1,9 @@
+{
+  "name": "backend-curriculum",
+  "version": "1.0.0",
+  "description": "Backend App Curriculum",
+  "main": "app.js",
+  "repository": "https://github.com/SQUAD-TECH-MACEIO/BACKEND-CURRICULUM.git",
+  "author": "SMTT SQUAD TEC",
+  "license": "MIT"
+}
